@@ -18,6 +18,7 @@ export default function Page() {
               <h1 id="profile-name" className="text-balance text-5xl font-semibold tracking-[-0.06em] text-slate-950 sm:text-7xl">
                 SDE Saurabh Chandra
               </h1>
+              <p className="mt-4 text-sm font-semibold uppercase tracking-[0.18em] text-green-600">Now on GitHub</p>
               <div className="mt-8 h-px w-20 bg-green-600" />
               <p className="mt-8 max-w-md text-xl leading-9 text-slate-600 sm:text-2xl sm:leading-10">
                 Build reliable, robust, and Simple Software Application.
